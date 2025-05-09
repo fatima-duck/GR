@@ -1,0 +1,17 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: auto;
+}
+body{
+    
+}
+.navbar {
+    display: flex;
+    gap: 3rem;
+}
+.navbar ul{
+    list-style: none;
+    display: flex;
+    gap: 3rem;
+    height;;
+}
